@@ -218,6 +218,7 @@ delimiters need to be indented:
 
     > This is a blockquote
     > inside a list item.
+    > inside a list item.sss
 
 To put a code block within a list item, the code block needs
 to be indented *twice* -- 8 spaces or two tabs:
